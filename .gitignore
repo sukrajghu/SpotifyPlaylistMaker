@@ -1,0 +1,6 @@
+# Ignore cache directories
+.cache
+__pycache__/
+
+# Ignore specific config file
+.env
